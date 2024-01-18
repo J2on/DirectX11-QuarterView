@@ -1,0 +1,15 @@
+C:\GGP_Ass2\Source\Library\Camera\Camera.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Camera.obj
+C:\GGP_Ass2\Source\Library\Character\Character.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Character.obj
+C:\GGP_Ass2\Source\Library\Game\Game.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Game.obj
+C:\GGP_Ass2\Source\Library\Light\PointLight.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\PointLight.obj
+C:\GGP_Ass2\Source\Library\Renderer\Model.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Model.obj
+C:\GGP_Ass2\Source\Library\Renderer\Renderable.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Renderable.obj
+C:\GGP_Ass2\Source\Library\Renderer\Renderer.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Renderer.obj
+C:\GGP_Ass2\Source\Library\Texture\Texture.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Texture.obj
+C:\GGP_Ass2\Source\Library\Texture\WICTextureLoader.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\WICTextureLoader.obj
+C:\GGP_Ass2\Source\Library\Shader\PixelShader.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\PixelShader.obj
+C:\GGP_Ass2\Source\Library\Shader\Shader.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Shader.obj
+C:\GGP_Ass2\Source\Library\Shader\VertexShader.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\VertexShader.obj
+C:\GGP_Ass2\Source\Library\Texture\DDSTextureLoader11.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\DDSTextureLoader11.obj
+C:\GGP_Ass2\Source\Library\Texture\Material.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\Material.obj
+C:\GGP_Ass2\Source\Library\Window\MainWindow.cpp;C:\GGP_Ass2\Source\Library\x64\Debug\MainWindow.obj
